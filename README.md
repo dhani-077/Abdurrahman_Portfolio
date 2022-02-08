@@ -9,3 +9,6 @@ Abdurrahman's Data Science Project Portfolio
 * Mendapatkan insight dari hasil visualisasi yang telah dibuat.
 * Mendapatkan insight dari model dan evaluasi model yang sudah dibuat dan diuji.
 
+![](/gambar/customer_distribution_by_count_transaction_group.png)
+![](/gambar/customer_distribution_by_average_transaction_amount_group.png)
+![](/gambar/confusion_matrix.png)
